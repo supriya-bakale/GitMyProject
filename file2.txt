@@ -1,7 +1,16 @@
 New file added for new feature
 
-Change  1 - to check push
+Change  1 -> to check push
+
 
 Change  2 - edited on remote server
+
+
+
+Change  2 -> edited on remote server
+
+
+Change 3 -> At Local
+
 
 Change 4 - Change added at local
