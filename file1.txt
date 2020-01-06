@@ -7,3 +7,5 @@ Updated file for feature login
 Changing login to logout
 
 Change to check file status
+
+Bug1 fix
